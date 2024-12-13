@@ -1,0 +1,126 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Accueil",
+            "request": "launch",
+            "mainClass": "garage.Accueil",
+            "projectName": "ProjetGarage_d67bbb4e"
+        },
+        {
+            "type": "java",
+            "name": "Accueil1",
+            "request": "launch",
+            "mainClass": "garage.Accueil1",
+            "projectName": "ProjetGarage_d67bbb4e"
+        },
+        {
+            "type": "java",
+            "name": "Accueil1Mecano",
+            "request": "launch",
+            "mainClass": "garage.Accueil1Mecano",
+            "projectName": "ProjetGarage_d67bbb4e"
+        },
+        {
+            "type": "java",
+            "name": "AccueilMecano",
+            "request": "launch",
+            "mainClass": "garage.AccueilMecano",
+            "projectName": "ProjetGarage_d67bbb4e"
+        },
+        {
+            "type": "java",
+            "name": "Client",
+            "request": "launch",
+            "mainClass": "garage.Client",
+            "projectName": "ProjetGarage_d67bbb4e"
+        },
+        {
+            "type": "java",
+            "name": "Connexion",
+            "request": "launch",
+            "mainClass": "garage.Connexion",
+            "projectName": "ProjetGarage_d67bbb4e"
+        },
+        {
+            "type": "java",
+            "name": "Facture",
+            "request": "launch",
+            "mainClass": "garage.Facture",
+            "projectName": "ProjetGarage_d67bbb4e"
+        },
+        {
+            "type": "java",
+            "name": "Garage",
+            "request": "launch",
+            "mainClass": "garage.Garage",
+            "projectName": "ProjetGarage_d67bbb4e"
+        },
+        {
+            "type": "java",
+            "name": "Intervention",
+            "request": "launch",
+            "mainClass": "garage.Intervention",
+            "projectName": "ProjetGarage_d67bbb4e"
+        },
+        {
+            "type": "java",
+            "name": "Login",
+            "request": "launch",
+            "mainClass": "garage.Login",
+            "projectName": "ProjetGarage_d67bbb4e"
+        },
+        {
+            "type": "java",
+            "name": "LoginMecano",
+            "request": "launch",
+            "mainClass": "garage.LoginMecano",
+            "projectName": "ProjetGarage_d67bbb4e"
+        },
+        {
+            "type": "java",
+            "name": "Mecanicien",
+            "request": "launch",
+            "mainClass": "garage.Mecanicien",
+            "projectName": "ProjetGarage_d67bbb4e"
+        },
+        {
+            "type": "java",
+            "name": "Menu",
+            "request": "launch",
+            "mainClass": "garage.Menu",
+            "projectName": "ProjetGarage_d67bbb4e"
+        },
+        {
+            "type": "java",
+            "name": "Planning",
+            "request": "launch",
+            "mainClass": "garage.Planning",
+            "projectName": "ProjetGarage_d67bbb4e"
+        },
+        {
+            "type": "java",
+            "name": "RapportMecano",
+            "request": "launch",
+            "mainClass": "garage.RapportMecano",
+            "projectName": "ProjetGarage_d67bbb4e"
+        },
+        {
+            "type": "java",
+            "name": "Vehicule",
+            "request": "launch",
+            "mainClass": "garage.Vehicule",
+            "projectName": "ProjetGarage_d67bbb4e"
+        }
+    ]
+}
